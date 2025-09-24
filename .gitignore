@@ -1,0 +1,8 @@
+# Ignorar a pasta de dados
+data/
+
+# Ignorar caches e arquivos de ambiente
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints
